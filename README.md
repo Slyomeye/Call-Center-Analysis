@@ -55,7 +55,7 @@ KPI’s (Key Performance Indicators)
 
 -	Average Speed of Answer
 
-Dashboard[
+Dashboard[<a href= "https://github.com/Slyomeye/Call-Center-Analysis/blob/main/REAL%20POWER%20BI.pdf">Dataset</a>]
 Visual filters(slicers) were added for three fields named “Agent”, “Topic” and “Day”.
 Five (5) Text Box visuals were added to the canvas; representing “Total Calls” , ”Answered Calls”, “Resolved Calls”, “Resolution Rate” and “Average Speed of Answer”.
 Created Paginated reports from the data so as to uncover insights.
